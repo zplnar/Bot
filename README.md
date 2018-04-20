@@ -1,4 +1,3 @@
-# [BDSelf v3.0](https://telegram.me/BeyondTeam)
 
 Professional Self-Bot Based On NEW TG-CLI
 
